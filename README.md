@@ -1,6 +1,6 @@
 # amap_location_gp
 
-Amap plugin for google play.
+Amap plugin for google play. Only Android！
 
 ## Getting Started
 
